@@ -13,14 +13,14 @@ JavaScript    React Front-end     React Back-end     Python      Data Science  B
 * Create custom scripts for clients when requested.
 
 ## Links
-you can find me on linkedin 
+you can find me on linkedin :linkedin:
 https://www.linkedin.com/in/steele-helbling-web-developer/
-:small_red_triangle:
-heres my portfolio 
+
+heres my portfolio :man:
 https://steelehelbling.github.io/portfolio-website/
 
-find resume
+find resume :memo:
 https://docs.google.com/document/d/1O9Yh01sAIrlkoSGevkqPx4k5_MN4Cb90OAVoIvcriZw/edit?usp=sharing
 
-message me at 
+message me at :envelope_with_arrow:
 https://steelehelbling@gmail.com
