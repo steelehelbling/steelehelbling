@@ -15,7 +15,7 @@ JavaScript    React Front-end     React Back-end     Python      Data Science  B
 ## Links
 you can find me on linkedin 
 https://www.linkedin.com/in/steele-helbling-web-developer/
-
+:small_red_triangle:
 heres my portfolio 
 https://steelehelbling.github.io/portfolio-website/
 
