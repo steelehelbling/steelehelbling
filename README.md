@@ -13,7 +13,7 @@ JavaScript    React Front-end     React Back-end     Python      Data Science  B
 * Create custom scripts for clients when requested.
 
 ## Links
-you can find me on linkedin :linkedin:
+you can find me on linkedin :camera:
 https://www.linkedin.com/in/steele-helbling-web-developer/
 
 heres my portfolio :man:
