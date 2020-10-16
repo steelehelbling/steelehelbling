@@ -1,4 +1,4 @@
-### Hi I Am Steele Helbling 👋
+### Hi I Am Steele Helbling ⚡
 
 I am a Full-Stack Web Development Lambda student that works with React and Python. I can create the frontend and the backend of websites. I can also test the backend. I am currently working with Python and Data Science. I love creating websites and enjoy programming sprints. My current career goal is to work with a team that wants to create a professional site and that can best accommodate my experience. 
 
